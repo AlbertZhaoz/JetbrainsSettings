@@ -1,0 +1,46 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1686617208723</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1686617208723</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="2063" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1685943744505">
+          <screen x="1920" y="0" width="1536" height="816" />
+        </state>
+        <state x="2063" y="200" key="Rider.ProjectTemplateDialog.Size/0.0.1280.672/1920.0.1536.816" timestamp="1685943744505" />
+        <state x="2189" y="12" key="SettingsEditor" timestamp="1686619454849">
+          <screen x="1920" y="0" width="1536" height="816" />
+        </state>
+        <state x="2189" y="12" key="SettingsEditor/0.0.1280.672/1920.0.1536.816" timestamp="1686619454849" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
